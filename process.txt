@@ -1,0 +1,10 @@
+INSTALL: Visual Studio
+LOGIN: Discord (https://discordapp.com/)
+OPEN: https://discordapp.com/developers/applications/
+
+
+Client Id: 527021113344131072
+Bot : https://discordapp.com/api/oauth2/authorize?client_id=527021113344131072&permissions=0&scope=bot
+
+Invite: https://discord.gg/J6QFbCk
+Server: https://discordbots.org/servers/526035586759262211
