@@ -8,3 +8,4 @@ Bot : https://discordapp.com/api/oauth2/authorize?client_id=527021113344131072&p
 
 Invite: https://discord.gg/J6QFbCk
 Server: https://discordbots.org/servers/526035586759262211
+Add Bot: https://discordbots.org/bot/new
